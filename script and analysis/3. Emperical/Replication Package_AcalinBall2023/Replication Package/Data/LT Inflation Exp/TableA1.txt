@@ -1,0 +1,10 @@
+	(1)	(2)	(3)
+VARIABLES	pi_exp_long_minus_short	pi_exp_long_minus_short	pi_exp_long_minus_short
+			
+pi_exp_short_hp_chg	-1.549***	-1.549***	-1.549***
+	[0.217]	[0.217]	[0.217]
+			
+Observations	30	30	30
+R-squared	0.637	0.637	0.637
+Standard errors in brackets			
+*** p<0.01, ** p<0.05, * p<0.1			
